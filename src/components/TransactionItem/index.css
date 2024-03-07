@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.history-items {
+  border: #d7dfe9 1px solid;
+  border-radius: 5px;
+  width: 95%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  height: 50px;
+  padding: 3px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #7e858e;
+}
+.delete-con {
+  background-color: #ffffff;
+  border: 0;
+}
+.icon-set {
+  height: 30px;
+  width: 30px;
+}

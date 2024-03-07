@@ -1,0 +1,116 @@
+/* Write your CSS here */
+.manager-bg-con {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 25vh;
+  margin: 3%;
+  border-radius: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 25px;
+  background-size: cover;
+}
+.head-name {
+  color: #1e293b;
+  font-size: 32px;
+}
+.pre-text {
+  color: #334155;
+  font-size: 16px;
+}
+.span-text {
+  color: #0b69ff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.money-details-con {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  justify-content: space-between;
+}
+.balance-con {
+  height: auto;
+  width: 20%;
+  padding: 10px;
+  background-color: #ecfccb;
+  border: #84cc16 1px solid;
+  border-radius: 12px;
+  display: flex;
+}
+.income-con {
+  height: auto;
+  width: 20%;
+  padding: 10px;
+  background-color: #cffafe;
+  border: #06b6d4 1px solid;
+  border-radius: 12px;
+  display: flex;
+}
+.expenses-con {
+  height: auto;
+  width: 20%;
+  padding: 10px;
+  background-color: #ede9fe;
+  border: #7c3aed 1px solid;
+  border-radius: 12px;
+  display: flex;
+}
+.transaction-con {
+  margin-left: 5%;
+  margin-right: 5%;
+  border: #cbd5e1 1px solid;
+  border-radius: 10px;
+  margin-top: 3%;
+  width: 30%;
+  padding: 10px;
+}
+.transaction-head {
+  color: #334155;
+}
+.label {
+  color: #b5b7c4;
+}
+.inp {
+  padding: 10px;
+  border-color: #d7dfe9;
+  border-radius: 5px;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.but {
+  color: #ffffff;
+  background-color: #8b5cf6;
+  border-radius: 8px;
+  padding: 10px;
+  border: 0px;
+  margin-top: 10px;
+}
+.history-con {
+  margin-left: 5%;
+  margin-right: 5%;
+  border: #cbd5e1 1px solid;
+  border-radius: 10px;
+  margin-top: 3%;
+  width: 30%;
+  padding: 10px;
+}
+.trans-hist-con {
+  display: flex;
+}
+.history-item {
+  border: #d7dfe9 1px solid;
+  border-radius: 5px;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  height: 50px;
+  padding: 3px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #7e858e;
+  margin-left: 8%;
+  padding: 5px;
+}

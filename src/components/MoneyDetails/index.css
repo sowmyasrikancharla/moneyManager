@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.icon {
+  height: 80px;
+  width: 80px;
+  margin: 5px;
+}
+.title {
+  color: #475569;
+  text-align: center;
+}
+.amount {
+  color: #475569;
+  font-size: 20px;
+  text-align: left;
+}
